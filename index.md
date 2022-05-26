@@ -78,6 +78,12 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<p class="text-center">
+  <a href="https://www.eventbrite.ca/e/library-carpentry-online-tickets-349631897417" target="_blank">
+    <button type="button" class="btn btn-info">Register Here</button>
+  </a>
+</p>
+
 
 <h2 id="general">General Information</h2>
 
