@@ -82,6 +82,7 @@ displayed if the 'eventbrite' field in the header is not set.
   <a href="https://www.eventbrite.ca/e/library-carpentry-online-tickets-349631897417" target="_blank">
     <button type="button" class="btn btn-info">Register Here</button>
   </a>
+  Registration will open June 13, 2022.
 </p>
 
 
